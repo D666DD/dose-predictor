@@ -1,0 +1,5 @@
+# ninja log v5
+17	117018	1745296546839360089	/home/pan.boya/Desktop/MedAi/mamba_dose-main/causal-conv1d/build/temp.linux-x86_64-cpython-311/csrc/causal_conv1d_update.o	99570f5099c1c297
+17	186836	1745296616746372541	/home/pan.boya/Desktop/MedAi/mamba_dose-main/causal-conv1d/build/temp.linux-x86_64-cpython-311/csrc/causal_conv1d_fwd.o	93711dff16539e0b
+17	325540	1745296755456398299	/home/pan.boya/Desktop/MedAi/mamba_dose-main/causal-conv1d/build/temp.linux-x86_64-cpython-311/csrc/causal_conv1d.o	48366ff55f78dfb4
+17	328443	1745296758403070748	/home/pan.boya/Desktop/MedAi/mamba_dose-main/causal-conv1d/build/temp.linux-x86_64-cpython-311/csrc/causal_conv1d_bwd.o	13f985e710abeb54
